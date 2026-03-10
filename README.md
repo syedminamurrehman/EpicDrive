@@ -98,7 +98,7 @@ The system uses a **Polymorphic Specification Architecture**:
 
 1. **Clone the repo**:
    ```bash
-   git clone [repository-url]
+   git clone github.com/syedminamurrehman/EpicDrive
    ```
 2. **Setup environment**:
    Create a `.env.local` with your Supabase URL and **Correct** Anon Key (Starts with `eyJ...`).

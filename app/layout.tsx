@@ -37,9 +37,10 @@ export const metadata: Metadata = {
     "cheap rent a car karachi",
     "suv rental karachi",
     "premium car lease karachi",
-"epicdrive",
-"epic drive car rental","EpicDrive karachi",
-"epicdrive car rental"
+    "epicdrive",
+    "epic drive car rental",
+    "EpicDrive karachi",
+    "epicdrive car rental"
   ],
   authors: [{ name: "ZEX Softwares" }],
   creator: "ZEX Softwares",
